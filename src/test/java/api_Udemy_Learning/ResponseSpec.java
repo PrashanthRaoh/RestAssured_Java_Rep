@@ -39,13 +39,4 @@ public class ResponseSpec {
 				.log().all();
 	}
 
-//	@Test
-//	public void test2() {
-//		given().spec(reqspec).
-//		get("/workspaces").then()
-//		.spec(responsespec)
-//		.log().all();
-//
-//	}
-
 }
